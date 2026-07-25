@@ -27,16 +27,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiting910&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiting910&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=xiting910&theme=tokyonight&hide_border=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xiting910&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophies" />
-</p>
 
 ## 📫 Contact
 
