@@ -1,0 +1,28 @@
+name: ✨ 功能建议
+description: 提出一个功能建议，以帮助改进这个项目
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你的功能请求是否与某个问题相关？请描述
+      description: 清晰简洁地描述问题是什么，例如：当 [...] 时，我总是感到困扰
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: 描述你想要的解决方案
+      description: 清晰简洁地描述你希望发生的事情
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 描述你考虑过的替代方案
+      description: 清晰简洁地描述你考虑过的任何替代方案或功能
+  - type: textarea
+    id: additional
+    attributes:
+      label: 额外信息
+      description: 在此添加关于该功能请求的任何其他上下文或截图
