@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 📖 项目文档
+  - name: 📖 项目主页
     url: https://github.com/xiting910
-    about: 在提交 Issue 之前，请先访问我的个人主页并找到当前仓库，阅读相关文档，确保你了解项目的使用方法和已知问题。
+    about: 在提交 Issue 之前，请先访问项目主页，阅读相关文档，确保你了解项目的使用方法和已知问题。
